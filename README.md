@@ -8,7 +8,7 @@ This is a repo to hold all the ideas that I have / have come across for solving 
 ## Why?
 
 One reason is that it's a common enough problem that gets asked that I thought it would be
-  interesting to try to come up with different ways to solve it.
+  interesting to try to come up with different ways to solve it -- even if they're impractical.
 
 The main reason has to do with an [article](http://philcrissman.net/posts/eulers-fizzbuzz/) that was  written and I [subsequently responded to](https://blog.antfeedr.com/posts/fizzbuzz.html).
 
