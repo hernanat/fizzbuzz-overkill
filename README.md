@@ -19,7 +19,7 @@ There are some interesting mathematics associated with the FizzBuzz problem, and
 
 ### Quick note
 
-The benchmarks can be somewhat misleading. There is some obvious overhead associated with some
+The benchmarks can be somewhat misleading (aside from the usual issues surrounding benchmarking code). There is some obvious overhead associated with some
   of the algorithm implementations (building the intermediate structures to help map to the
   proper output).
 
